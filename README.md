@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Jose Luis Garay Ramos
 
-<img align="right" alt="Logo UNALM" width="250" src="logo.jpg">
+<img align="right" alt="Logo UNALM" width="250" src="logo.jpeg">
 
 Soy estudiante de **Estadística** en la [Universidad Nacional Agraria La Molina (UNALM)](#), radicando en Lima, Perú. Soy un apasionado por extraer valor de los datos a través del **Data Science** y el **Machine Learning**. 
 
