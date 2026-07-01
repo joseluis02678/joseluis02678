@@ -2,9 +2,9 @@
 
 <img align="right" alt="Logo UNALM" width="250" src="logo.jpeg">
 
-Soy estudiante de **Estadística** en la [Universidad Nacional Agraria La Molina (UNALM)](#), radicando en Lima, Perú. Soy un apasionado por extraer valor de los datos a través del **Data Science** y el **Machine Learning**. 
+Soy estudiante de **Estadística** en la [Universidad Nacional Agraria La Molina (UNALM)](#) y vivo en Lima. Me dedico a explorar y entender qué historias ocultan los datos, usando el **Data Science** y el **Machine Learning** como mis herramientas principales. 
 
-Mi enfoque principal es la aplicación de modelos estadísticos avanzados y la programación para resolver problemas complejos. Disfruto liderando grupos de investigación académica y transformando datos brutos en soluciones estratégicas, desde el análisis estadístico puro hasta la implementación de modelos predictivos.
+Más que solo programar, me gusta resolver problemas reales. Suelo coordinar grupos de investigación en mi facultad, donde pasamos de la estadística teórica a la práctica: desde limpiar datos brutos hasta implementar modelos predictivos que ayuden a tomar decisiones estratégicas.
 
 ---
 
@@ -31,10 +31,11 @@ Mi enfoque principal es la aplicación de modelos estadísticos avanzados y la p
 
 ### 📊 Mi Enfoque e Intereses
 
-* 🎓 **Perfil Académico:** Estudiante de Estadística en la UNALM y coordinador de proyectos de investigación.
-* 🧠 **Áreas de Especialidad:** Machine Learning (Random Forest, XGBoost), Análisis Multivariado (MANOVA, PCA) y Functional Data Analysis (FDA).
-* 💻 **Stack Tecnológico:** Desarrollo en R, Python y exploración de infraestructura en la nube con Microsoft Azure.
-* 📈 **Experiencia Práctica y Proyectos:** * Análisis comparativo del gasto turístico (Marcona vs. Paracas) aplicando estadística no paramétrica y la Distancia de Wasserstein.
-  * Estudios multivariados (ej. análisis de calidad mediante modelos MANOVA).
-  * Resolución de retos técnicos de código y análisis de datos de órdenes.
-* 🌍 **Idiomas:** Español (Nativo) | Inglés (Nivel Pre-intermedio / B1).
+* 🎓 **Perfil Académico:** Futuro estadístico molinero. Actualmente lidero y coordino proyectos de investigación dentro de la universidad.
+* 🧠 **En qué ando profundizando:** Machine Learning (Random Forest, XGBoost), Análisis Multivariado (MANOVA, PCA) y Análisis de Datos Funcionales (FDA).
+* 💻 **Stack Tecnológico:** Escribo código principalmente en R y Python, y actualmente desarrollo proyectos de infraestructura en la nube utilizando Microsoft Azure.
+* 📈 **Experiencia Práctica y Proyectos:** 
+  * **Estadística No Paramétrica:** Análisis comparativo del gasto turístico entre Marcona y Paracas utilizando la Distancia de Wasserstein.
+  * **Estudios Multivariados:** Aplicación de modelos MANOVA para evaluar la calidad en la producción (como análisis de panetones y datos zootécnicos).
+  * **Retos Técnicos:** Resolución de pruebas de código en Python analizando bases de datos comerciales y gestión de órdenes.
+* 🌍 **Idiomas:** Español (Nativo) | Inglés (Estudiando nivel Pre-intermedio / B1 en el Británico).
