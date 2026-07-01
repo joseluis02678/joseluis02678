@@ -2,7 +2,7 @@
 
 <img align="right" alt="Logo UNALM" width="250" src="logo.jpeg">
 
-Soy estudiante de **Estadística** en la [Universidad Nacional Agraria La Molina (UNALM)](#) y vivo en Lima. Me dedico a explorar y entender qué historias ocultan los datos, usando el **Data Science** y el **Machine Learning** como mis herramientas principales. 
+Soy estudiante de **Estadística** en la [Universidad Nacional Agraria La Molina (UNALM)](#). Me dedico a explorar y entender qué historias ocultan los datos, usando el **Data Science** y el **Machine Learning** como mis herramientas principales. 
 
 Más que solo programar, me gusta resolver problemas reales. Suelo coordinar grupos de investigación en mi facultad, donde pasamos de la estadística teórica a la práctica: desde limpiar datos brutos hasta implementar modelos predictivos que ayuden a tomar decisiones estratégicas.
 
