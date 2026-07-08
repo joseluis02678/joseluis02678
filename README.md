@@ -31,7 +31,7 @@ Disfruto coordinando grupos de investigación en mi facultad, donde llevamos la 
 <img src="https://img.shields.io/badge/🔹-Análisis_exploratorio-32CD32?style=flat-square"/>  
 <img src="https://img.shields.io/badge/🔹-Modelamiento_estadístico-32CD32?style=flat-square"/>  
 <img src="https://img.shields.io/badge/🔹-Machine_Learning-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/-Análisis_multivariado-32CD32?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🔹-Análisis_multivariado-32CD32?style=flat-square"/>  
 <img src="https://img.shields.io/badge/🔹-Soluciones_estratégicas-32CD32?style=flat-square"/>
 
 <br clear="right"/>
