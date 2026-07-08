@@ -38,14 +38,23 @@ Como estudiante de la UNALM, he consolidado una base analítica sólida a travé
 
 ---
 
-### 📊 Proyectos y Experiencia Aplicada
+### 📚 Proyectos y Experiencia Aplicada
 
-* 📈 **Análisis Estadístico:** Estudio comparativo del gasto turístico entre Marcona y Paracas implementando la Distancia de Wasserstein.
-* 🥛 **Estudios Multivariados (MANOVA):** Evaluación de calidad en producción (análisis de características del panetón) y modelado de datos zootécnicos aplicados a la producción lechera y nutrición porcina.
-* 🤖 **Machine Learning & Retos Técnicos:** Resolución de la prueba técnica de Anyone AI para el procesamiento y análisis de bases de datos de órdenes comerciales utilizando Python (Random Forest, XGBoost).
-* ☁️ **Infraestructura Cloud:** Configuración y despliegue de bases de datos SQL utilizando entornos de Microsoft Azure for Students.
+- 📊 **Customer Churn Prediction (Machine Learning):** Desarrollo de un modelo predictivo para la identificación de clientes con riesgo de abandono en una empresa de telecomunicaciones utilizando Python, Scikit-Learn, Random Forest, XGBoost, análisis exploratorio, evaluación mediante ROC-AUC y segmentación de clientes.
 
+- 🎓 **MAIPI – Sistema Inteligente de Permanencia Estudiantil (UNALM):** Desarrollo de una plataforma Full-Stack para el monitoreo de estudiantes en riesgo académico mediante indicadores de rendimiento, asistencia y factores socioeconómicos. Implementado con PHP, MySQL, Vue.js, Bootstrap y Chart.js.
+
+- 📈 **Business Intelligence & Power BI:** Construcción de dashboards interactivos para el análisis de indicadores empresariales utilizando Power BI, DAX, Power Query y Excel.
+
+- 📊 **Estadística Aplicada e Investigación:** Desarrollo de proyectos en análisis multivariado (MANOVA), modelos lineales, experimentos (DBCA y diseños factoriales), análisis de datos turísticos y estudios aplicados en producción agropecuaria mediante R y Python.
+
+- 🤖 **Machine Learning & Data Science:** Desarrollo de modelos supervisados y no supervisados para clasificación, predicción y segmentación utilizando Scikit-Learn, XGBoost, Random Forest, Regresión Logística y técnicas de validación de modelos.
+
+- ☁️ **Cloud & Bases de Datos:** Implementación y administración de bases de datos relacionales utilizando MySQL y SQL Server, además del despliegue de servicios en Microsoft Azure for Students.
+
+- 🏆 **Hackathons y Programas de Innovación:** Participación en la Hackathon BCP y en el programa FUTURA, desarrollando soluciones basadas en analítica de datos e inteligencia artificial para resolver problemas reales.
 ---
+
 ### 🌍 Idiomas
 * **Español:** Nativo
 * **Inglés:** Nivel Pre-intermedio / B1 (Estudiante activo en El Británico).
