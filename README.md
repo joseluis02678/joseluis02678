@@ -279,14 +279,6 @@ Proyecto enfocado en innovación y análisis de datos, obteniendo reconocimiento
 
 <h2 align="center"><img src="https://img.shields.io/badge/🌍-Idiomas-006400?style=for-the-badge" alt="Idiomas"/></h2>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/🇵🇪-Español-Nativo-D91023?style=flat-square"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/🇬🇧-Inglés-Pre--intermedio_B1-012169?style=flat-square"/>  
-<br>
 Estudiante activo en El Británico.
 
 </p>
