@@ -278,7 +278,6 @@ Herramientas:
 
 
 - R.
-- RStudio.
 - Python.
 
 
