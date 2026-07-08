@@ -281,35 +281,15 @@ Proyecto enfocado en innovación y análisis de datos, obteniendo reconocimiento
 <img src="https://img.shields.io/badge/🌍-Idiomas-006400?style=for-the-badge" alt="Idiomas"/>
 </h2>
 
-<table align="center">
-<tr>
-<td align="center" width="250">
+<p align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.png" width="80" alt="Perú"/>
+| Idioma | Nivel | Estado |
+|--------|-------|--------|
+| 🇵 **Español** | Nativo | <img src="https://img.shields.io/badge/100%25-D91023?style=flat-square"/> |
+| 🇬🇧 **Inglés** | Pre-intermedio / B1 | <img src="https://img.shields.io/badge/40%25-012169?style=flat-square"/> 📚 |
 
-### 🇵🇪 Español
-
-**Nivel:** Nativo
-
-<img src="https://img.shields.io/badge/Progreso-100%25-D91023?style=for-the-badge"/>
-
-</td>
-
-<td align="center" width="250">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" width="80" alt="UK"/>
-
-### 🇬🇧 Inglés
-
-**Nivel:** Pre-intermedio / B1
-
-<img src="https://img.shields.io/badge/Progreso-40%25-012169?style=for-the-badge"/>
-
-<br>
 <small>📚 Estudiante activo en El Británico</small>
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
