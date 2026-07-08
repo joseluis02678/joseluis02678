@@ -141,13 +141,17 @@ Experiencia académica en:
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/🚀-Proyectos-006400?style=for-the-badge" alt="Proyectos"/></h2>
+<h2 align="center"><img src="https://img.shields.io/badge/🚀-Proyectos_Destacados-006400?style=for-the-badge" alt="Proyectos"/></h2>
 
 <div align="center">
 
 ## <img src="https://img.shields.io/badge/📊-Customer_Churn_Prediction-006400?style=flat-square"/>
 
-Proyecto de **Machine Learning aplicado a telecomunicaciones** para identificar clientes con riesgo de abandono.
+**Problema:** Empresa de telecomunicaciones con incremento en tasa de abandono de clientes.
+
+**Solución:** Modelo de Machine Learning para predecir churn y segmentar clientes en riesgo.
+
+🔗 [Ver repositorio](https://github.com/joseluis02678/Telco-Churn-Analytics-MachineLearning)
 
 Tecnologías:
 
@@ -166,9 +170,13 @@ Tecnologías:
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/-MAIPI_Sistema_Inteligente-006400?style=flat-square"/>
+## <img src="https://img.shields.io/badge/🎓-MAIPI_Sistema_Inteligente-006400?style=flat-square"/>
 
-Plataforma **Full-Stack inteligente** para monitorear estudiantes en riesgo académico mediante:
+**Problema:** Deserción estudiantil en la UNALM afecta el rendimiento académico institucional.
+
+**Solución:** Plataforma Full-Stack que monitorea estudiantes en riesgo académico mediante análisis de rendimiento, asistencia y factores socioeconómicos.
+
+🔗 [Ver repositorio](https://github.com/joseluis02678/Analisis_de_deserci-n_estudiantil)
 
 <img src="https://img.shields.io/badge/-Rendimiento_académico-DC143C?style=flat-square"/>  
 <img src="https://img.shields.io/badge/-Asistencia-DC143C?style=flat-square"/>  
@@ -188,9 +196,83 @@ Tecnologías:
 
 <div align="center">
 
+## <img src="https://img.shields.io/badge/📊-Análisis_Multivariado_Aplicado-006400?style=flat-square"/>
+
+**Problema:** Necesidad de analizar datasets complejos con múltiples variables correlacionadas.
+
+**Solución:** Aplicación de técnicas multivariadas para reducción de dimensionalidad y análisis de patrones.
+
+🔗 [Ver repositorio](https://github.com/joseluis02678/Applied-Multivariate-Analysis)
+
+<img src="https://img.shields.io/badge/📊-PCA-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📈-MANOVA-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🔍-Análisis_Factorial-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📉-Reducción_dimensional-006400?style=flat-square"/>
+
+Herramientas:
+
+- R
+- Python
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/🧪-Diseños_Experimentales-006400?style=flat-square"/>
+
+**Problema:** Optimización de procesos productivos en contextos agroindustriales.
+
+**Solución:** Implementación de diseños experimentales para validar hipótesis y optimizar variables de respuesta.
+
+🔗 [Ver repositorio](https://github.com/joseluis02678/Dise-os-experimentales-2)
+
+<img src="https://img.shields.io/badge/🔬-DBCA-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📊-Diseños_factoriales-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📈-ANOVA-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🎯-Optimización-006400?style=flat-square"/>
+
+Herramientas:
+
+- R
+- Python
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/📦-Paquetes_Estadísticos-006400?style=flat-square"/>
+
+**Problema:** Necesidad de herramientas estadísticas personalizadas para análisis descriptivo e inferencial.
+
+**Solución:** Desarrollo de paquetes estadísticos en R para facilitar análisis reproducibles.
+
+🔗 [Ver repositorio](https://github.com/joseluis02678/Paquetes-estadisticos-Descriptivos-e-inferencial)
+
+<img src="https://img.shields.io/badge/📊-Estadística_Descriptiva-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📈-Inferencia_Estadística-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📦-Paquetes_R-276DC3?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🔧-Funciones_personalizadas-006400?style=flat-square"/>
+
+Herramientas:
+
+- R
+- RStudio
+
+</div>
+
+---
+
+<div align="center">
+
 ## <img src="https://img.shields.io/badge/📈-Business_Intelligence_&_Power_BI-006400?style=flat-square"/>
 
-Construcción de soluciones analíticas mediante:
+**Problema:** Empresas necesitan visualizar datos complejos para toma de decisiones estratégicas.
+
+**Solución:** Construcción de dashboards interactivos y automatización de reportes empresariales.
 
 <img src="https://img.shields.io/badge/📊-Dashboards_interactivos-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/📌-Indicadores_empresariales-DC143C?style=flat-square"/>  
