@@ -373,53 +373,7 @@ Estudiante activo en El Británico.
 
 </p>
 
-
-
 ---
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
 
-
-<p align="center">
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseluis02678&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis02678&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</p>
-
-
-
----
-
-
-<h2 align="center">👀 Visitas al perfil</h2>
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=joseluis02678&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
-
-
----
-
-
-<h3 align="center">
-
-🚀 Transformando datos en conocimiento y conocimiento en decisiones.
-
-</h3>
-
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:32CD32&height=120&section=footer"/>
-
-</p>
