@@ -259,8 +259,8 @@ Herramientas:
 
 Herramientas:
 
-- R
-- RStudio
+- Python
+- HTML
 
 </div>
 
