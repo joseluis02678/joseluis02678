@@ -248,13 +248,13 @@ Herramientas:
 
 **Problema:** Necesidad de herramientas estadísticas personalizadas para análisis descriptivo e inferencial.
 
-**Solución:** Desarrollo de paquetes estadísticos en R para facilitar análisis reproducibles.
+**Solución:** Desarrollo de paquetes estadísticos en Python para facilitar análisis reproducibles.
 
 🔗 [Ver repositorio](https://github.com/joseluis02678/Paquetes-estadisticos-Descriptivos-e-inferencial)
 
 <img src="https://img.shields.io/badge/📊-Estadística_Descriptiva-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/📈-Inferencia_Estadística-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📦-Paquetes_R-276DC3?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🐍-Paquetes_Python-3776AB?style=flat-square"/>  
 <img src="https://img.shields.io/badge/🔧-Funciones_personalizadas-006400?style=flat-square"/>
 
 Herramientas:
