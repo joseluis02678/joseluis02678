@@ -19,11 +19,13 @@ Jose Luis Garay Ramos
 
 ## <img src="https://img.shields.io/badge/💻-Sobre_mí-006400?style=flat-square" alt="Sobre mí"/>
 
+<img align="right" width="150" src="logo.jpeg" alt="Logo UNALM">
+
 Estudiante de **Estadística** en la **Universidad Nacional Agraria La Molina (UNALM)**, enfocado en resolver problemas reales combinando estadística aplicada con **Data Science, Machine Learning e Inteligencia Artificial**.
 
 Me interesa especialmente el **análisis multivariado** y el **diseño de experimentos**, y disfruto coordinando grupos de investigación en mi facultad para llevar la estadística teórica a aplicaciones prácticas.
 
-<br clear="right"/>
+<br clear="both"/>
 
 ---
 
