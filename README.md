@@ -128,7 +128,7 @@ Modelo de Machine Learning para predecir el abandono de clientes en una empresa 
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/🎓-MAIPI_Sistema_Inteligente-006400?style=flat-square"/>
+## <img src="https://img.shields.io/badge/🎓-Sistema_de_Análisis_de_Deserción_Estudiantil-006400?style=flat-square"/>
 
 Plataforma Full-Stack que monitorea estudiantes de la UNALM en riesgo de deserción a partir de su rendimiento, asistencia y factores socioeconómicos.
 
