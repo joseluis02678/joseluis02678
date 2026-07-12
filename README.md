@@ -239,7 +239,7 @@ Herramientas:
 
 **Solución:** Implementación de diseños experimentales para validar hipótesis y optimizar variables de respuesta, incluyendo el modelamiento de dos diseños factoriales mixtos con el paquete `GAD`, verificando su coherencia mediante los Cuadrados Medios Esperados (CME).
 
-🔗 [Ver repositorio general](https://github.com/joseluis02678/Dise-os-experimentales-2) · 🔗 [Ver Factores Cruzados y Anidados](https://github.com/joseluis02678/Factores-Cruzados-y-anidados) · 📄 [Informe interactivo](https://joseluis02678.github.io/Factores-Cruzados-y-anidados/)
+🔗 [Ver repositorio](https://github.com/joseluis02678/Dise-os-experimentales-2)
 
 **Valor agregado — Factores Cruzados y Anidados:**
 
