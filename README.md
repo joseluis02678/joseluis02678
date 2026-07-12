@@ -35,7 +35,7 @@ Me interesa especialmente el **análisis multivariado** y el **diseño de experi
 <img src="https://img.shields.io/badge/LinkedIn-Jose%20Luis%20Garay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gaga4590joseluis@gmail.com">
+<a href="mailto:joseluisgarayramos23@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
