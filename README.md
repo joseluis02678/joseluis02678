@@ -19,20 +19,9 @@ Jose Luis Garay Ramos
 
 ## <img src="https://img.shields.io/badge/💻-Sobre_mí-006400?style=flat-square" alt="Sobre mí"/>
 
-Soy estudiante de **Estadística** en la **Universidad Nacional Agraria La Molina (UNALM)**.
+Estudiante de **Estadística** en la **Universidad Nacional Agraria La Molina (UNALM)**, enfocado en resolver problemas reales combinando estadística aplicada con **Data Science, Machine Learning e Inteligencia Artificial**.
 
-Me dedico a explorar y entender qué historias esconden los datos, combinando el rigor matemático de la estadística con herramientas modernas de **Data Science, Machine Learning e Inteligencia Artificial**.
-
-Más que solo escribir código, mi enfoque está en la **resolución de problemas complejos mediante datos**.
-
-Disfruto coordinando grupos de investigación en mi facultad, donde llevamos la estadística teórica hacia aplicaciones reales:
-
-<img src="https://img.shields.io/badge/🔹-Limpieza_y_transformación-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔹-Análisis_exploratorio-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔹-Modelamiento_estadístico-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔹-Machine_Learning-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔹-Análisis_multivariado-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔹-Soluciones_estratégicas-32CD32?style=flat-square"/>
+Me interesa especialmente el **análisis multivariado** y el **diseño de experimentos**, y disfruto coordinando grupos de investigación en mi facultad para llevar la estadística teórica a aplicaciones prácticas.
 
 <br clear="right"/>
 
@@ -65,13 +54,9 @@ Disfruto coordinando grupos de investigación en mi facultad, donde llevamos la 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/R-RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Azure-Cloud-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </p>
@@ -80,8 +65,6 @@ Disfruto coordinando grupos de investigación en mi facultad, donde llevamos la 
 
 <h2 align="center"><img src="https://img.shields.io/badge/📚-Formación_Académica-006400?style=for-the-badge" alt="Formación"/></h2>
 
-Como estudiante de la **Universidad Nacional Agraria La Molina**, he consolidado una formación analítica basada en estadística aplicada, programación y ciencia de datos.
-
 <table align="center">
 
 <tr>
@@ -89,12 +72,7 @@ Como estudiante de la **Universidad Nacional Agraria La Molina**, he consolidado
 
 ### <img src="https://img.shields.io/badge/📊-Análisis_Multivariado-006400?style=flat-square"/>
 
-Dominio de técnicas como:
-
-- MANOVA.
-- PCA (Análisis de Componentes Principales).
-- Análisis Factorial.
-- Reducción de dimensionalidad.
+MANOVA, PCA, Análisis Factorial, reducción de dimensionalidad.
 
 </td>
 
@@ -102,11 +80,7 @@ Dominio de técnicas como:
 
 ### <img src="https://img.shields.io/badge/📈-Estadística_No_Paramétrica-006400?style=flat-square"/>
 
-Aplicación de:
-
-- Pruebas estadísticas.
-- Métodos basados en rangos.
-- Métricas avanzadas de distancia.
+Pruebas de rangos y métricas avanzadas de distancia.
 
 </td>
 
@@ -118,7 +92,7 @@ Aplicación de:
 
 ### <img src="https://img.shields.io/badge/📉-Análisis_Datos_Funcionales-006400?style=flat-square"/>
 
-Modelamiento y extracción de información en datos que evolucionan continuamente.
+Modelamiento de datos que evolucionan continuamente.
 
 </td>
 
@@ -126,12 +100,7 @@ Modelamiento y extracción de información en datos que evolucionan continuament
 
 ### <img src="https://img.shields.io/badge/💻-Programación_y_BD-006400?style=flat-square"/>
 
-Experiencia académica en:
-
-- Lenguaje de Programación II.
-- Bases de Datos I.
-- Arquitectura de datos.
-- Consultas SQL.
+Bases de datos I, arquitectura de datos, SQL.
 
 </td>
 
@@ -147,22 +116,11 @@ Experiencia académica en:
 
 ## <img src="https://img.shields.io/badge/📊-Customer_Churn_Prediction-006400?style=flat-square"/>
 
-**Problema:** Empresa de telecomunicaciones con incremento en tasa de abandono de clientes.
-
-**Solución:** Modelo de Machine Learning para predecir churn y segmentar clientes en riesgo.
+Modelo de Machine Learning para predecir el abandono de clientes en una empresa de telecomunicaciones y segmentar a los que están en riesgo.
 
 🔗 [Ver repositorio](https://github.com/joseluis02678/Telco-Churn-Analytics-MachineLearning)
 
-Tecnologías:
-
-<img src="https://img.shields.io/badge/🐍-Python-3776AB?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📚-Pandas-150458?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🤖-Scikit--Learn-F7931E?style=flat-square"/>  
-<img src="https://img.shields.io/badge/-Random_Forest-228B22?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🚀-XGBoost-16713F?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📈-Regresión_Logística-FF6F00?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📊-ROC--AUC-0089D6?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🎯-Segmentación-DC143C?style=flat-square"/>
+`Python` · `Pandas` · `Scikit-Learn` · `Random Forest` · `XGBoost` · `Regresión Logística` · `ROC-AUC`
 
 </div>
 
@@ -172,23 +130,11 @@ Tecnologías:
 
 ## <img src="https://img.shields.io/badge/🎓-MAIPI_Sistema_Inteligente-006400?style=flat-square"/>
 
-**Problema:** Deserción estudiantil en la UNALM afecta el rendimiento académico institucional.
-
-**Solución:** Plataforma Full-Stack que monitorea estudiantes en riesgo académico mediante análisis de rendimiento, asistencia y factores socioeconómicos.
+Plataforma Full-Stack que monitorea estudiantes de la UNALM en riesgo de deserción a partir de su rendimiento, asistencia y factores socioeconómicos.
 
 🔗 [Ver repositorio](https://github.com/joseluis02678/Analisis_de_deserci-n_estudiantil)
 
-<img src="https://img.shields.io/badge/-Rendimiento_académico-DC143C?style=flat-square"/>  
-<img src="https://img.shields.io/badge/-Asistencia-DC143C?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📌-Factores_socioeconómicos-DC143C?style=flat-square"/>
-
-Tecnologías:
-
-- PHP
-- MySQL
-- Vue.js
-- Bootstrap
-- Chart.js
+`PHP` · `MySQL` · `Vue.js` · `Bootstrap` · `Chart.js`
 
 </div>
 
@@ -198,34 +144,11 @@ Tecnologías:
 
 ## <img src="https://img.shields.io/badge/📊-Análisis_Multivariado_Aplicado-006400?style=flat-square"/>
 
-**Problema:** Necesidad de analizar datasets complejos con múltiples variables correlacionadas, en contextos que van desde agroindustria y macroeconomía hasta salud ocupacional y e-commerce.
-
-**Solución:** Cuatro evaluaciones del curso de Técnicas Multivariadas documentadas como estudios de caso completos — 19 problemas de negocio resueltos de principio a fin: diagnóstico de supuestos, selección justificada de la técnica, modelado y traducción del resultado estadístico en una decisión accionable.
+Cuatro evaluaciones del curso de Técnicas Multivariadas documentadas como estudios de caso: inferencia multivariada, reducción de dimensionalidad, análisis de correspondencia/discriminante y regresión logística avanzada, cada una con su informe interactivo publicado en GitHub Pages.
 
 🔗 [Ver repositorio](https://github.com/joseluis02678/Applied-Multivariate-Analysis)
 
-**Valor agregado del proyecto:**
-
-<img src="https://img.shields.io/badge/-Inferencia_Multivariada_(PC1)-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/-Reducción_Dimensional_(Parcial)-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/-Correspondencia_y_Discriminante_(PC2)-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/-Regresión_Avanzada_(Final)-006400?style=flat-square"/>
-
-- Cada evaluación cuenta con su propio informe HTML interactivo publicado en GitHub Pages y un README dedicado que resume el caso de negocio, la metodología y el hallazgo clave con enfoque en impacto, no solo en significancia estadística.
-- Integré y consolidé las cuatro bases de datos del equipo, unificando pipelines de análisis y estandarizando la documentación de todo el repositorio.
-- Técnicas cubiertas: Z² y T² de Hotelling, MANOVA/MANCOVA, PCA, Análisis Factorial (clásico, mixto, dicotómico, ordinal), Análisis de Correspondencia (Simple y Múltiple), Análisis Discriminante Lineal, y Regresión Logística (Binaria, Log-Binomial, Poisson robusta, Multinomial, Ordinal).
-
-<img src="https://img.shields.io/badge/📊-PCA-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📈-MANOVA/MANCOVA-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔍-Análisis_Factorial-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔗-Análisis_Discriminante-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📉-Reducción_dimensional-006400?style=flat-square"/>
-
-Herramientas:
-
-- R
-- Quarto
-- Python
+`R` · `Quarto` · `Python` · `PCA` · `MANOVA/MANCOVA` · `Análisis Factorial` · `Análisis Discriminante`
 
 </div>
 
@@ -235,31 +158,11 @@ Herramientas:
 
 ## <img src="https://img.shields.io/badge/🧪-Diseños_Experimentales-006400?style=flat-square"/>
 
-**Problema:** Optimización de procesos productivos en contextos agroindustriales, y la necesidad de especificar correctamente modelos con estructuras de factores cruzados y anidados — un error aquí invalida las pruebas F de todo el análisis posterior.
+Diseños experimentales (DBCA, factoriales) para optimizar procesos agroindustriales, incluyendo modelamiento de factores cruzados y anidados verificado con Cuadrados Medios Esperados.
 
-**Solución:** Implementación de diseños experimentales para validar hipótesis y optimizar variables de respuesta, incluyendo el modelamiento de dos diseños factoriales mixtos con el paquete `GAD`, verificando su coherencia mediante los Cuadrados Medios Esperados (CME).
+🔗 [Ver repositorio](https://github.com/joseluis02678/Dise-os-experimentales-2) · 🔗 [Factores Cruzados y Anidados](https://github.com/joseluis02678/Factores-Cruzados-y-anidados)
 
-🔗 [Ver repositorio](https://github.com/joseluis02678/Dise-os-experimentales-2)
-
-**Valor agregado — Factores Cruzados y Anidados:**
-
-- Especificación y comparación de dos casos sobre el mismo diseño: A cruzado con B y C anidados, frente a A y C cruzados con B anidado en A — mostrando cómo cambia la estructura de error según el tipo de anidamiento.
-- Ajuste en R respetando exactamente la estructura de cruce/anidamiento (`lm()` con `%in%`, `*`, `:`) y cálculo del ANOVA correcto con `gad()`, que asigna automáticamente el denominador F apropiado a cada fuente.
-- Verificación teórica completa: los Cuadrados Medios Esperados obtenidos con `estimates()` se contrastan y coinciden exactamente con la derivación teórica del modelo mixto (A y C fijos, B aleatorio).
-
-<img src="https://img.shields.io/badge/🔬-DBCA-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📊-Diseños_factoriales-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📈-ANOVA-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔗-Factores_Cruzados_y_Anidados-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📐-Cuadrados_Medios_Esperados-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🎯-Optimización-006400?style=flat-square"/>
-
-Herramientas:
-
-- R
-- GAD
-- Quarto
-- Python
+`R` · `GAD` · `Quarto` · `ANOVA`
 
 </div>
 
@@ -269,21 +172,11 @@ Herramientas:
 
 ## <img src="https://img.shields.io/badge/📦-Paquetes_Estadísticos-006400?style=flat-square"/>
 
-**Problema:** Necesidad de herramientas estadísticas personalizadas para análisis descriptivo e inferencial.
-
-**Solución:** Desarrollo de paquetes estadísticos en Python para facilitar análisis reproducibles.
+Paquetes estadísticos en Python para análisis descriptivo e inferencial reproducible.
 
 🔗 [Ver repositorio](https://github.com/joseluis02678/Paquetes-estadisticos-Descriptivos-e-inferencial)
 
-<img src="https://img.shields.io/badge/📊-Estadística_Descriptiva-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📈-Inferencia_Estadística-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🐍-Paquetes_Python-3776AB?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🔧-Funciones_personalizadas-006400?style=flat-square"/>
-
-Herramientas:
-
-- Python
-- HTML
+`Python` · `HTML` · `Estadística Descriptiva` · `Inferencia Estadística`
 
 </div>
 
@@ -293,92 +186,24 @@ Herramientas:
 
 ## <img src="https://img.shields.io/badge/📈-Business_Intelligence_&_Power_BI-006400?style=flat-square"/>
 
-**Problema:** Empresas necesitan visualizar datos complejos para toma de decisiones estratégicas.
+Dashboards interactivos y automatización de reportes para toma de decisiones empresariales.
 
-**Solución:** Construcción de dashboards interactivos y automatización de reportes empresariales.
-
-<img src="https://img.shields.io/badge/📊-Dashboards_interactivos-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📌-Indicadores_empresariales-DC143C?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📂-Modelamiento_de_datos-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/⚙️-Automatización-006400?style=flat-square"/>
-
-Herramientas:
-
-- Power BI
-- DAX
-- Power Query
-- Excel
+`Power BI` · `DAX` · `Power Query` · `Excel`
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Estadística_Aplicada_e_Investigación-006400?style=flat-square"/>
+<h2 align="center">
+<img src="https://img.shields.io/badge/🏆-Hackathons_y_Innovación-006400?style=for-the-badge" alt="Hackathons"/>
+</h2>
 
-Desarrollo de proyectos relacionados con:
+<p align="center">
 
-- Análisis Multivariado.
-- MANOVA.
-- Modelos lineales.
-- Diseños experimentales:
-  - DBCA.
-  - Diseños factoriales.
-- Análisis turístico.
-- Estudios aplicados en producción agropecuaria.
-
-Herramientas:
-
-- R.
-- Python.
-
----
-
-## <img src="https://img.shields.io/badge/🤖-Machine_Learning_&_Data_Science-006400?style=flat-square"/>
-
-Aplicación de técnicas de aprendizaje automático:
-
-<img src="https://img.shields.io/badge/✔-Modelos_supervisados-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/✔-Modelos_no_supervisados-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/✔-Clasificación-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/✔-Predicción-32CD32?style=flat-square"/>  
-<img src="https://img.shields.io/badge/✔-Segmentación-32CD32?style=flat-square"/>
-
-Modelos utilizados:
-
-- Scikit-Learn.
-- XGBoost.
-- Random Forest.
-- Regresión Logística.
-- Validación de modelos.
-
----
-
-## <img src="https://img.shields.io/badge/☁️-Cloud_&_Bases_de_Datos-006400?style=flat-square"/>
-
-Experiencia en:
-
-<img src="https://img.shields.io/badge/-Bases_de_datos_relacionales-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🗄-Administración_SQL-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🏗-Diseño_estructuras-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/🚀-Servicios_Cloud-006400?style=flat-square"/>
-
-Tecnologías:
-
-- MySQL.
-- SQL Server.
-- Microsoft Azure for Students.
-
----
-
-## <img src="https://img.shields.io/badge/🏆-Hackathons_y_Innovación-006400?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🏦-Hackathon_BCP-006400?style=flat-square"/>
-
-Desarrollo de soluciones basadas en datos e inteligencia artificial para resolver problemas reales.
-
+<img src="https://img.shields.io/badge/🏦-Hackathon_BCP-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/-Programa_FUTURA-006400?style=flat-square"/>
 
-Proyecto enfocado en innovación y análisis de datos, obteniendo reconocimiento dentro del programa.
+</p>
 
 ---
 
@@ -390,10 +215,8 @@ Proyecto enfocado en innovación y análisis de datos, obteniendo reconocimiento
 
 | Idioma | Nivel | Estado |
 |--------|-------|--------|
-| 🇵 **Español** | Nativo | <img src="https://img.shields.io/badge/100%25-D91023?style=flat-square"/> |
+| 🇵🇪 **Español** | Nativo | <img src="https://img.shields.io/badge/100%25-D91023?style=flat-square"/> |
 | 🇬🇧 **Inglés** | Pre-intermedio / B1 | <img src="https://img.shields.io/badge/40%25-012169?style=flat-square"/> 📚 |
-
-<small>📚 Estudiante activo en El Británico</small>
 
 </p>
 
