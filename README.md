@@ -184,16 +184,6 @@ Paquetes estadísticos en Python para análisis descriptivo e inferencial reprod
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/📈-Business_Intelligence_&_Power_BI-006400?style=flat-square"/>
-
-Dashboards interactivos y automatización de reportes para toma de decisiones empresariales.
-
-`Power BI` · `DAX` · `Power Query` · `Excel`
-
-</div>
-
----
-
 <h2 align="center">
 <img src="https://img.shields.io/badge/🏆-Hackathons_y_Innovación-006400?style=for-the-badge" alt="Hackathons"/>
 </h2>
