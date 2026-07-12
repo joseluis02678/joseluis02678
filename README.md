@@ -15,7 +15,7 @@ Jose Luis Garay Ramos
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:32CD32&height=200&section=header&text=Data%20Science%20%7C%20Statistics%20%7C%20AI&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<img align="right" width="250" src="logo.jpeg" alt="Logo UNALM">
+<img align="right" width="150" src="logo.jpeg" alt="Logo UNALM">
 
 ## <img src="https://img.shields.io/badge/💻-Sobre_mí-006400?style=flat-square" alt="Sobre mí"/>
 
