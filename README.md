@@ -198,20 +198,33 @@ Tecnologías:
 
 ## <img src="https://img.shields.io/badge/📊-Análisis_Multivariado_Aplicado-006400?style=flat-square"/>
 
-**Problema:** Necesidad de analizar datasets complejos con múltiples variables correlacionadas.
+**Problema:** Necesidad de analizar datasets complejos con múltiples variables correlacionadas, en contextos que van desde agroindustria y macroeconomía hasta salud ocupacional y e-commerce.
 
-**Solución:** Aplicación de técnicas multivariadas para reducción de dimensionalidad y análisis de patrones.
+**Solución:** Cuatro evaluaciones del curso de Técnicas Multivariadas documentadas como estudios de caso completos — 19 problemas de negocio resueltos de principio a fin: diagnóstico de supuestos, selección justificada de la técnica, modelado y traducción del resultado estadístico en una decisión accionable.
 
 🔗 [Ver repositorio](https://github.com/joseluis02678/Applied-Multivariate-Analysis)
 
+**Valor agregado del proyecto:**
+
+<img src="https://img.shields.io/badge/-Inferencia_Multivariada_(PC1)-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/-Reducción_Dimensional_(Parcial)-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/-Correspondencia_y_Discriminante_(PC2)-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/-Regresión_Avanzada_(Final)-006400?style=flat-square"/>
+
+- Cada evaluación cuenta con su propio informe HTML interactivo publicado en GitHub Pages y un README dedicado que resume el caso de negocio, la metodología y el hallazgo clave con enfoque en impacto, no solo en significancia estadística.
+- Integré y consolidé las cuatro bases de datos del equipo, unificando pipelines de análisis y estandarizando la documentación de todo el repositorio.
+- Técnicas cubiertas: Z² y T² de Hotelling, MANOVA/MANCOVA, PCA, Análisis Factorial (clásico, mixto, dicotómico, ordinal), Análisis de Correspondencia (Simple y Múltiple), Análisis Discriminante Lineal, y Regresión Logística (Binaria, Log-Binomial, Poisson robusta, Multinomial, Ordinal).
+
 <img src="https://img.shields.io/badge/📊-PCA-006400?style=flat-square"/>  
-<img src="https://img.shields.io/badge/📈-MANOVA-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📈-MANOVA/MANCOVA-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/🔍-Análisis_Factorial-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🔗-Análisis_Discriminante-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/📉-Reducción_dimensional-006400?style=flat-square"/>
 
 Herramientas:
 
 - R
+- Quarto
 - Python
 
 </div>
