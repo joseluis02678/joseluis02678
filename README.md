@@ -235,20 +235,30 @@ Herramientas:
 
 ## <img src="https://img.shields.io/badge/🧪-Diseños_Experimentales-006400?style=flat-square"/>
 
-**Problema:** Optimización de procesos productivos en contextos agroindustriales.
+**Problema:** Optimización de procesos productivos en contextos agroindustriales, y la necesidad de especificar correctamente modelos con estructuras de factores cruzados y anidados — un error aquí invalida las pruebas F de todo el análisis posterior.
 
-**Solución:** Implementación de diseños experimentales para validar hipótesis y optimizar variables de respuesta.
+**Solución:** Implementación de diseños experimentales para validar hipótesis y optimizar variables de respuesta, incluyendo el modelamiento de dos diseños factoriales mixtos con el paquete `GAD`, verificando su coherencia mediante los Cuadrados Medios Esperados (CME).
 
-🔗 [Ver repositorio](https://github.com/joseluis02678/Dise-os-experimentales-2)
+🔗 [Ver repositorio general](https://github.com/joseluis02678/Dise-os-experimentales-2) · 🔗 [Ver Factores Cruzados y Anidados](https://github.com/joseluis02678/Factores-Cruzados-y-anidados) · 📄 [Informe interactivo](https://joseluis02678.github.io/Factores-Cruzados-y-anidados/)
+
+**Valor agregado — Factores Cruzados y Anidados:**
+
+- Especificación y comparación de dos casos sobre el mismo diseño: A cruzado con B y C anidados, frente a A y C cruzados con B anidado en A — mostrando cómo cambia la estructura de error según el tipo de anidamiento.
+- Ajuste en R respetando exactamente la estructura de cruce/anidamiento (`lm()` con `%in%`, `*`, `:`) y cálculo del ANOVA correcto con `gad()`, que asigna automáticamente el denominador F apropiado a cada fuente.
+- Verificación teórica completa: los Cuadrados Medios Esperados obtenidos con `estimates()` se contrastan y coinciden exactamente con la derivación teórica del modelo mixto (A y C fijos, B aleatorio).
 
 <img src="https://img.shields.io/badge/🔬-DBCA-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/📊-Diseños_factoriales-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/📈-ANOVA-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🔗-Factores_Cruzados_y_Anidados-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/📐-Cuadrados_Medios_Esperados-006400?style=flat-square"/>  
 <img src="https://img.shields.io/badge/🎯-Optimización-006400?style=flat-square"/>
 
 Herramientas:
 
 - R
+- GAD
+- Quarto
 - Python
 
 </div>
