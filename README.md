@@ -184,6 +184,20 @@ Paquetes estadísticos en Python para análisis descriptivo e inferencial reprod
 
 <div align="center">
 
+## <img src="https://img.shields.io/badge/✈️-Pipeline_Aero_Meteorológico-006400?style=flat-square"/>
+
+Colaboración en un pipeline de datos que integra Visual Crossing (ingesta climática), OpenSky (telemetría de tráfico aéreo) y SENAMHI (validación) para correlacionar fenómenos climáticos extremos con la eficiencia de rutas comerciales en Perú.
+
+🔗 [Ver repositorio](https://github.com/Sebas20050700/PIPELINE_AERO-METEREOLOGICO)
+
+`Python` · `Visual Crossing` · `OpenSky API` · `SENAMHI` · `Pandas`
+
+</div>
+
+---
+
+<div align="center">
+
 <h2 align="center">
 <img src="https://img.shields.io/badge/🏆-Hackathons_y_Innovación-006400?style=for-the-badge" alt="Hackathons"/>
 </h2>
