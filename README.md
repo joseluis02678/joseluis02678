@@ -9,6 +9,7 @@ Jose Luis Garay Ramos
 <img src="https://img.shields.io/badge/🤖-Data_Science-006400?style=flat-square"/>
 <img src="https://img.shields.io/badge/🧠-Machine_Learning-006400?style=flat-square"/>
 <img src="https://img.shields.io/badge/📈-Business_Intelligence-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/💹-Riesgo_Financiero_(en_curso)-006400?style=flat-square"/>
 </h3>
 
 <p align="center">
@@ -19,9 +20,11 @@ Jose Luis Garay Ramos
 
 <img align="right" width="170" src="logo.jpeg" alt="Logo UNALM">
 
-Estudiante de **Estadística** en la **Universidad Nacional Agraria La Molina (UNALM)**, enfocado en resolver problemas reales combinando estadística aplicada con **Data Science, Machine Learning e Inteligencia Artificial**.
+Estudiante de **Estadística e Informática** en la **Universidad Nacional Agraria La Molina (UNALM)**, enfocado en resolver problemas reales combinando estadística aplicada con **Data Science, Machine Learning e Inteligencia Artificial**.
 
 Me interesa especialmente el **análisis multivariado** y el **diseño de experimentos**, y disfruto coordinando grupos de investigación en mi facultad para llevar la estadística teórica a aplicaciones prácticas.
+
+Actualmente estoy ampliando mi perfil hacia el **sector financiero**, cursando un programa de especialización en **Riesgo de Mercado** (VaR, Duration, Convexidad, Renta Fija y Derivados), para complementar mi base estadística y de programación con dominio de negocio.
 
 <br clear="both"/>
 
@@ -57,50 +60,37 @@ Me interesa especialmente el **análisis multivariado** y el **diseño de experi
 <img src="https://img.shields.io/badge/R-RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-Cloud-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </p>
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/📚-Formación_Académica-006400?style=for-the-badge" alt="Formación"/></h2>
+<h2 align="center"><img src="https://img.shields.io/badge/📚-Formación_Académica_y_Certificaciones-006400?style=for-the-badge" alt="Formación"/></h2>
 
 <table align="center">
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/📊-Análisis_Multivariado-006400?style=flat-square"/>
+### 🎓 Formación Universitaria (UNALM)
 
-MANOVA, PCA, Análisis Factorial, reducción de dimensionalidad.
-
-</td>
-
-<td width="50%">
-
-### <img src="https://img.shields.io/badge/📈-Estadística_No_Paramétrica-006400?style=flat-square"/>
-
-Pruebas de rangos y métricas avanzadas de distancia.
+- **Análisis Multivariado:** MANOVA, PCA, Análisis Factorial, reducción de dimensionalidad.
+- **Estadística No Paramétrica:** Pruebas de rangos y métricas avanzadas de distancia.
+- **Análisis de Datos Funcionales:** Modelamiento de datos que evolucionan continuamente.
+- **Programación y BD:** Bases de datos I, arquitectura de datos, SQL.
 
 </td>
 
-</tr>
+<td width="50%" valign="top">
 
-<tr>
+### 📜 Certificaciones Profesionales
 
-<td>
-
-### <img src="https://img.shields.io/badge/📉-Análisis_Datos_Funcionales-006400?style=flat-square"/>
-
-Modelamiento de datos que evolucionan continuamente.
-
-</td>
-
-<td>
-
-### <img src="https://img.shields.io/badge/💻-Programación_y_BD-006400?style=flat-square"/>
-
-Bases de datos I, arquitectura de datos, SQL.
+- **Data Science for Business** (Futura) — Python, ML, Deep Learning, Feature Engineering.
+- **Analista de Datos con Power BI y Python** (IMB) — DAX avanzado, ETL, integración con Python.
+- **Fundamentos de Cloud Computing** (DataCamp).
+- **Riesgo de Mercado** (Good Finance) 🔄 *en curso* — VaR, Duration, Convexidad, Derivados.
 
 </td>
 
@@ -196,24 +186,19 @@ Colaboración en un pipeline de datos que integra Visual Crossing (ingesta clim�
 
 ---
 
-<div align="center">
-
-<h2 align="center">
-<img src="https://img.shields.io/badge/🏆-Hackathons_y_Innovación-006400?style=for-the-badge" alt="Hackathons"/>
-</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/🏆-Hackathons_y_Innovación-006400?style=for-the-badge" alt="Hackathons"/></h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🏦-Hackathon_BCP-006400?style=flat-square"/>  
+<img src="https://img.shields.io/badge/🏦-Hackathon_BCP-006400?style=flat-square"/>
 <img src="https://img.shields.io/badge/-Programa_FUTURA-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Riesgo_de_Mercado_Good_Finance-006400?style=flat-square"/>
 
 </p>
 
 ---
 
-<h2 align="center">
-<img src="https://img.shields.io/badge/🌍-Idiomas-006400?style=for-the-badge" alt="Idiomas"/>
-</h2>
+<h2 align="center"><img src="https://img.shields.io/badge/🌍-Idiomas-006400?style=for-the-badge" alt="Idiomas"/></h2>
 
 <p align="center">
 
