@@ -7,24 +7,23 @@ Jose Luis Garay Ramos
 <h3 align="center">
 <img src="https://img.shields.io/badge/📊-Estadística-006400?style=flat-square"/>
 <img src="https://img.shields.io/badge/🤖-Data_Science-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/🧠-Machine_Learning-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/📈-Business_Intelligence-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/💹-Riesgo_Financiero_(en_curso)-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/⚙️-MLOps_&_Data_Engineering-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/☁️-Cloud_DevOps_&_AWS-006400?style=flat-square"/>
 </h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:32CD32&height=200&section=header&text=Data%20Science%20%7C%20Statistics%20%7C%20AI&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:32CD32&height=200&section=header&text=Data%20Science%20%7C%20Cloud%20Engineering%20%7C%20MLOps&fontSize=45&fontColor=ffffff"/>
 </p>
 
 ## <img src="https://img.shields.io/badge/💻-Sobre_mí-006400?style=flat-square" alt="Sobre mí"/>
 
 <img align="right" width="170" src="logo.jpeg" alt="Logo UNALM">
 
-Estudiante de **Estadística e Informática** en la **Universidad Nacional Agraria La Molina (UNALM)**, enfocado en resolver problemas reales combinando estadística aplicada con **Data Science, Machine Learning e Inteligencia Artificial**.
+Estudiante de **Estadística e Informática** en la **Universidad Nacional Agraria La Molina (UNALM)**, enfocado en resolver problemas de negocio integrando el rigor de la estadística aplicada con **Data Science, bases de datos y despliegue de infraestructura en la nube**.
 
-Me interesa especialmente el **análisis multivariado** y el **diseño de experimentos**, y disfruto coordinando grupos de investigación en mi facultad para llevar la estadística teórica a aplicaciones prácticas.
+Me interesa especialmente el **análisis multivariado** y el diseño de modelos predictivos, coordinando equipos para transformar la estadística teórica en productos de datos accionables y escalables.
 
-Actualmente estoy ampliando mi perfil hacia el **sector financiero**, cursando un programa de especialización en **Riesgo de Mercado** (VaR, Duration, Convexidad, Renta Fija y Derivados), para complementar mi base estadística y de programación con dominio de negocio.
+Actualmente estoy consolidando mi perfil hacia el rol de **Data & Machine Learning Engineer**, cursando un programa intensivo de **Cloud Engineering & DevOps con AWS**. Mi objetivo es diseñar infraestructuras seguras, automatizar pipelines de datos y asegurar el pase a producción de modelos analíticos empresariales.
 
 <br clear="both"/>
 
@@ -50,7 +49,7 @@ Actualmente estoy ampliando mi perfil hacia el **sector financiero**, cursando u
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode,azure" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode,aws,docker" />
 
 </p>
 
@@ -60,8 +59,8 @@ Actualmente estoy ampliando mi perfil hacia el **sector financiero**, cursando u
 <img src="https://img.shields.io/badge/R-RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-Cloud-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Infrastructure-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
@@ -78,19 +77,19 @@ Actualmente estoy ampliando mi perfil hacia el **sector financiero**, cursando u
 
 - **Análisis Multivariado:** MANOVA, PCA, Análisis Factorial, reducción de dimensionalidad.
 - **Estadística No Paramétrica:** Pruebas de rangos y métricas avanzadas de distancia.
-- **Análisis de Datos Funcionales:** Modelamiento de datos que evolucionan continuamente.
-- **Programación y BD:** Bases de datos I, arquitectura de datos, SQL.
+- **Programación y Arquitectura BD:** Sistemas de Gestión de Bases de Datos I y II, diseño relacional, SQL.
+- **Modelamiento e Inferencia:** Análisis de Regresión, Modelos Lineales, Inferencia Estadística.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📜 Certificaciones Profesionales
+### 📜 Certificaciones y Programas
 
+- **Cloud Engineering & DevOps con AWS** 🔄 *en curso* — Despliegue, MLOps, Arquitectura Cloud, IaaS/Serverless.
 - **Data Science for Business** (Futura) — Python, ML, Deep Learning, Feature Engineering.
-- **Analista de Datos con Power BI y Python** (IMB) — DAX avanzado, ETL, integración con Python.
-- **Fundamentos de Cloud Computing** (DataCamp).
-- **Riesgo de Mercado** (Good Finance) 🔄 *en curso* — VaR, Duration, Convexidad, Derivados.
+- **Analista de Datos con Power BI y Python** (IMB) — DAX avanzado, ETL, integración de modelos.
+- **SQL Server Nivel Intermedio** (CINFO UNMSM) — Administración de bases de datos, T-SQL.
 
 </td>
 
@@ -106,11 +105,11 @@ Actualmente estoy ampliando mi perfil hacia el **sector financiero**, cursando u
 
 ## <img src="https://img.shields.io/badge/📊-Customer_Churn_Prediction-006400?style=flat-square"/>
 
-Modelo de Machine Learning para predecir el abandono de clientes en una empresa de telecomunicaciones y segmentar a los que están en riesgo.
+Modelo de Machine Learning para predecir el abandono de clientes en una empresa de telecomunicaciones y segmentar a los que están en riesgo. Integración en proceso hacia un pipeline automatizado.
 
 🔗 [Ver repositorio](https://github.com/joseluis02678/Telco-Churn-Analytics-MachineLearning)
 
-`Python` · `Pandas` · `Scikit-Learn` · `Random Forest` · `XGBoost` · `Regresión Logística` · `ROC-AUC`
+`Python` · `Pandas` · `Scikit-Learn` · `Random Forest` · `XGBoost` · `Docker`
 
 </div>
 
@@ -132,67 +131,38 @@ Plataforma Full-Stack que monitorea estudiantes de la UNALM en riesgo de deserci
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/📊-Análisis_Multivariado_Aplicado-006400?style=flat-square"/>
-
-Cuatro evaluaciones del curso de Técnicas Multivariadas documentadas como estudios de caso: inferencia multivariada, reducción de dimensionalidad, análisis de correspondencia/discriminante y regresión logística avanzada, cada una con su informe interactivo publicado en GitHub Pages.
-
-🔗 [Ver repositorio](https://github.com/joseluis02678/Applied-Multivariate-Analysis)
-
-`R` · `Quarto` · `Python` · `PCA` · `MANOVA/MANCOVA` · `Análisis Factorial` · `Análisis Discriminante`
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://img.shields.io/badge/🧪-Diseños_Experimentales-006400?style=flat-square"/>
-
-Diseños experimentales (DBCA, factoriales) para optimizar procesos agroindustriales, incluyendo modelamiento de factores cruzados y anidados verificado con Cuadrados Medios Esperados.
-
-🔗 [Ver repositorio](https://github.com/joseluis02678/Dise-os-experimentales-2) · 🔗 [Factores Cruzados y Anidados](https://github.com/joseluis02678/Factores-Cruzados-y-anidados)
-
-`R` · `GAD` · `Quarto` · `ANOVA`
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://img.shields.io/badge/📦-Paquetes_Estadísticos-006400?style=flat-square"/>
-
-Paquetes estadísticos en Python para análisis descriptivo e inferencial reproducible.
-
-🔗 [Ver repositorio](https://github.com/joseluis02678/Paquetes-estadisticos-Descriptivos-e-inferencial)
-
-`Python` · `HTML` · `Estadística Descriptiva` · `Inferencia Estadística`
-
-</div>
-
----
-
-<div align="center">
-
 ## <img src="https://img.shields.io/badge/✈️-Pipeline_Aero_Meteorológico-006400?style=flat-square"/>
 
 Colaboración en un pipeline de datos que integra Visual Crossing (ingesta climática), OpenSky (telemetría de tráfico aéreo) y SENAMHI (validación) para correlacionar fenómenos climáticos extremos con la eficiencia de rutas comerciales en Perú.
 
 🔗 [Ver repositorio](https://github.com/Sebas20050700/PIPELINE_AERO-METEREOLOGICO)
 
-`Python` · `Visual Crossing` · `OpenSky API` · `SENAMHI` · `Pandas`
+`Python` · `Visual Crossing API` · `OpenSky API` · `SENAMHI` · `Pandas`
 
 </div>
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/🏆-Hackathons_y_Innovación-006400?style=for-the-badge" alt="Hackathons"/></h2>
+<div align="center">
+
+## <img src="https://img.shields.io/badge/📊-Análisis_Multivariado_Aplicado-006400?style=flat-square"/>
+
+Evaluaciones documentadas como estudios de caso: inferencia multivariada, reducción de dimensionalidad, análisis de correspondencia/discriminante y regresión logística avanzada, con informe interactivo publicado en GitHub Pages.
+
+🔗 [Ver repositorio](https://github.com/joseluis02678/Applied-Multivariate-Analysis)
+
+`R` · `Quarto` · `Python` · `PCA` · `MANOVA/MANCOVA` · `Análisis Discriminante`
+
+</div>
+
+---
+
+<h2 align="center"><img src="https://img.shields.io/badge/🏆-Hackathons_e_Innovación-006400?style=for-the-badge" alt="Hackathons"/></h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🏦-Hackathon_BCP-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Programa_FUTURA-006400?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Riesgo_de_Mercado_Good_Finance-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏦-Hackathon_BCP_(Tercera_Edición)-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/🚀-Programa_FUTURA-006400?style=flat-square"/>
 
 </p>
 
@@ -204,8 +174,8 @@ Colaboración en un pipeline de datos que integra Visual Crossing (ingesta clim�
 
 | Idioma | Nivel | Estado |
 |--------|-------|--------|
-| 🇵🇪 **Español** | Nativo | <img src="https://img.shields.io/badge/100%25-D91023?style=flat-square"/> |
-| 🇬🇧 **Inglés** | Pre-intermedio / B1 | <img src="https://img.shields.io/badge/40%25-012169?style=flat-square"/> 📚 |
+| 🇵🇪 **Español** | Nativo | <img src="https://img.shields.io/badge/Fluidez_Total-D91023?style=flat-square"/> |
+| 🇬🇧 **Inglés** | Básico 11 (Nivel B1) | <img src="https://img.shields.io/badge/Lectura_y_Escritura_Técnica-012169?style=flat-square"/> 📚 |
 
 </p>
 
